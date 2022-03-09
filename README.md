@@ -1,4 +1,4 @@
-# Sho's Gameboy_Palettes Set for MiSTer
+# Sho's Gameboy_Palettes Set for [MiSTer FPGA](https://github.com/MiSTer-devel/Main_MiSTer)
 Palettes for MiSTer's Game Boy / 2 Player Core.
 
 To use on MiSTer FPGA, place folder into Games/Gameboy/palettes directory.
